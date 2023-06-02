@@ -13,21 +13,11 @@
         "tags": [
           {
             "name": "returns",
-            "text": [
-              {
-                "text": "PermissionStatus",
-                "kind": "text"
-              }
-            ]
+            "text": "PermissionStatus"
           },
           {
             "name": "since",
-            "text": [
-              {
-                "text": "0.0.3",
-                "kind": "text"
-              }
-            ]
+            "text": "0.0.3"
           }
         ],
         "docs": "Checks microphone permission",
@@ -44,21 +34,11 @@
         "tags": [
           {
             "name": "returns",
-            "text": [
-              {
-                "text": "PermissionStatus",
-                "kind": "text"
-              }
-            ]
+            "text": "PermissionStatus"
           },
           {
             "name": "since",
-            "text": [
-              {
-                "text": "0.0.3",
-                "kind": "text"
-              }
-            ]
+            "text": "0.0.3"
           }
         ],
         "docs": "Requests microphone permission",
@@ -75,12 +55,7 @@
         "tags": [
           {
             "name": "since",
-            "text": [
-              {
-                "text": "0.0.3",
-                "kind": "text"
-              }
-            ]
+            "text": "0.0.3"
           }
         ],
         "docs": "Starts recoding session if no session is in progress",
@@ -95,21 +70,11 @@
         "tags": [
           {
             "name": "returns",
-            "text": [
-              {
-                "text": "AudioRecording",
-                "kind": "text"
-              }
-            ]
+            "text": "AudioRecording"
           },
           {
             "name": "since",
-            "text": [
-              {
-                "text": "0.0.3",
-                "kind": "text"
-              }
-            ]
+            "text": "0.0.3"
           }
         ],
         "docs": "Stops recoding session if one is in progress",
@@ -151,12 +116,7 @@
           "name": "base64String",
           "tags": [
             {
-              "text": [
-                {
-                  "text": "0.0.3",
-                  "kind": "text"
-                }
-              ],
+              "text": "0.0.3",
               "name": "since"
             }
           ],
@@ -168,12 +128,7 @@
           "name": "dataUrl",
           "tags": [
             {
-              "text": [
-                {
-                  "text": "0.0.3",
-                  "kind": "text"
-                }
-              ],
+              "text": "0.0.3",
               "name": "since"
             }
           ],
@@ -185,12 +140,7 @@
           "name": "path",
           "tags": [
             {
-              "text": [
-                {
-                  "text": "0.0.3",
-                  "kind": "text"
-                }
-              ],
+              "text": "0.0.3",
               "name": "since"
             }
           ],
@@ -202,12 +152,7 @@
           "name": "webPath",
           "tags": [
             {
-              "text": [
-                {
-                  "text": "0.0.3",
-                  "kind": "text"
-                }
-              ],
+              "text": "0.0.3",
               "name": "since"
             }
           ],
@@ -219,12 +164,7 @@
           "name": "duration",
           "tags": [
             {
-              "text": [
-                {
-                  "text": "0.0.3",
-                  "kind": "text"
-                }
-              ],
+              "text": "0.0.3",
               "name": "since"
             }
           ],
@@ -236,12 +176,7 @@
           "name": "format",
           "tags": [
             {
-              "text": [
-                {
-                  "text": "0.0.3",
-                  "kind": "text"
-                }
-              ],
+              "text": "0.0.3",
               "name": "since"
             }
           ],
@@ -253,12 +188,7 @@
           "name": "mimeType",
           "tags": [
             {
-              "text": [
-                {
-                  "text": "0.0.3",
-                  "kind": "text"
-                }
-              ],
+              "text": "0.0.3",
               "name": "since"
             }
           ],
